@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/milliwonkim_movies/static/css/main.7b657550.chunk.css",
+    "main.js": "/milliwonkim_movies/static/js/main.b32868f6.chunk.js",
+    "main.js.map": "/milliwonkim_movies/static/js/main.b32868f6.chunk.js.map",
+    "runtime-main.js": "/milliwonkim_movies/static/js/runtime-main.296e205a.js",
+    "runtime-main.js.map": "/milliwonkim_movies/static/js/runtime-main.296e205a.js.map",
+    "static/js/2.34b1cbd5.chunk.js": "/milliwonkim_movies/static/js/2.34b1cbd5.chunk.js",
+    "static/js/2.34b1cbd5.chunk.js.map": "/milliwonkim_movies/static/js/2.34b1cbd5.chunk.js.map",
+    "index.html": "/milliwonkim_movies/index.html",
+    "precache-manifest.c3d044c2c11cfea9a046a82f4d6a5663.js": "/milliwonkim_movies/precache-manifest.c3d044c2c11cfea9a046a82f4d6a5663.js",
+    "service-worker.js": "/milliwonkim_movies/service-worker.js",
+    "static/css/main.7b657550.chunk.css.map": "/milliwonkim_movies/static/css/main.7b657550.chunk.css.map",
+    "static/js/2.34b1cbd5.chunk.js.LICENSE.txt": "/milliwonkim_movies/static/js/2.34b1cbd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.296e205a.js",
+    "static/js/2.34b1cbd5.chunk.js",
+    "static/css/main.7b657550.chunk.css",
+    "static/js/main.b32868f6.chunk.js"
+  ]
+}
